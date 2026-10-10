@@ -1,0 +1,31 @@
+﻿ELIFOOT 98 - versão clássica para Windows 10 e 11 (32 e 64 bits)
+=================================================================
+
+O Elifoot 98 de André Elias e Ricardo Correia (1998), igual ao original, refeito para
+rodar nativamente nos Windows modernos: o "motor" do jogo foi reescrito e provado igual
+ao original (as mesmas partidas, rodada a rodada), e as telas são as de 1998.
+Inclui o jogo e o Editor de Equipas.
+
+INSTALAÇÃO
+- Escolha uma pasta onde o seu usuário possa gravar (a sugerida é C:\Jogos\Elifoot 98).
+  Não instale em "Arquivos de Programas": o jogo grava o registro e os jogos na própria pasta.
+- O instalador escolhe sozinho a versão de 64 bits (Windows de 64 bits) ou de 32 bits.
+- Para desinstalar: "Adicionar ou remover programas" do Windows. Os seus jogos gravados
+  e o seu registro ficam na pasta.
+
+AVISO DO WINDOWS ("O Windows protegeu o computador")
+- O instalador não tem assinatura digital paga, por isso o Windows mostra esse aviso
+  na primeira vez. Clique em "Mais informações" e depois em "Executar assim mesmo".
+
+REGISTO
+- O jogo vem NÃO registrado, como o original: sem registro não há empréstimos, compra de
+  jogadores nem visualizar o plantel dos outros, e a janela de registro aparece de vez em quando.
+- Para registrar, use a contra-senha dos autores para o código que aparece na janela de
+  registro (botão "Registrar" no "Acerca"). O registro é o do jogo original, sem alterações.
+  Uma contra-senha antiga de outro computador não serve: o código muda de máquina para máquina.
+
+DIREITOS
+- Elifoot 98 (c) 1998 André Elias e Ricardo Correia. "Autorizada apenas a distribuição
+  livre e gratuita. A comercialização ou distribuição comercial, sob qualquer forma, é
+  proibida sem autorização escrita dos autores." (do "Acerca" do jogo)
+- Esta versão é distribuída de graça. Não a venda.
