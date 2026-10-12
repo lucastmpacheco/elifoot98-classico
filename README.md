@@ -2,6 +2,8 @@
 
 O Elifoot 98 de André Elias e Ricardo Correia, **versão 98.003** (a última do autor, 1998), igual ao original, refeito para rodar nativamente nos sistemas modernos. Inclui o jogo e o Editor de Equipas, com os dados e as telas da distribuição original.
 
+**Versão atual: v1.0.4 (12/10/2026).** O que mudou está no [CHANGELOG.md](CHANGELOG.md).
+
 ## Windows (10 e 11, 32 e 64 bits)
 
 1. Baixe `windows/Elifoot98-classico-instalador.exe` (confira com o `.sha256`).
